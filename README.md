@@ -1,1 +1,1 @@
-# Metro_App
+With the help of this project, users will be able to travel a metro network effectively thanks to its Java-based metro navigation system. It has features including displaying stations, presenting the metro map, finding the quickest routes and times between stations, and computing distances. The user interface of the system is menu-driven and utilizes graph representation for the metro network, making it simple to explore and use.
